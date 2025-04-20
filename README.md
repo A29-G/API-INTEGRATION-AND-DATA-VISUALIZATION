@@ -51,5 +51,10 @@ This project helps users learn real-world programming skills such as API consump
 The Weather Data Visualization Dashboard is a well-rounded mini-project that combines API integration, data processing, and plotting in Python. With simple configuration, users can change the target city or even expand features like humidity or wind tracking. It’s a flexible, educational tool and a great foundation for more advanced data-driven applications.
 
 
+*OUTPUT OF THE PROJECT*
+
+![Image](https://github.com/user-attachments/assets/c8bd4f33-9f3b-474c-97c1-27c28051d7b1)
+
+
 
 
